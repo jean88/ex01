@@ -1,0 +1,10 @@
+ex01
+
+bien
+
+ajouter fizz buzz
+
+readme.md ->README.md
+README:
+votre nom (voir Forum)
+
